@@ -23,7 +23,7 @@ A Python-based interactive chat interface that combines Groq LLM with Kokoro's t
 
 ```bash
 git clone https://github.com/os-dave/tts-chat.git
-cd tts
+cd tts-chat
 ```
 
 2. Install the required dependencies:
