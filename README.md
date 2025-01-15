@@ -14,6 +14,8 @@ A Python-based interactive chat interface that combines Groq LLM with Kokoro's t
 
 - Python 3.x
 - A Groq API key (or run llama.cpp for local inference)
+- You also need [`kokoro-v0_19.onnx`](https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files/kokoro-v0_19.onnx) and [`voices.json`](https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files/voices.json)
+
 
 ## Installation
 
